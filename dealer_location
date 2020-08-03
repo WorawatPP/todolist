@@ -7,7 +7,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "ร้านจีรวรรณการเกษตร"
+        "name": "ร้านจีรวรรณการเกษตร",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "ร้านสันป่าตองเคมีเกษตร"
+        "name": "ร้านสันป่าตองเคมีเกษตร",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "บริษัท ลิ้มศักดากุลเคมีเกษตร จำกัด"
+        "name": "บริษัท ลิ้มศักดากุลเคมีเกษตร จำกัด",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +58,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "ห้างหุ้นส่วนจำกัด ไทยเฮงจั่นเคมีเกษตร"
+        "name": "ห้างหุ้นส่วนจำกัด ไทยเฮงจั่นเคมีเกษตร",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +75,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "บริษัท เคมีกิจเกษตร จำกัด"
+        "name": "บริษัท เคมีกิจเกษตร จำกัด",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +92,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "ร้านจันทร์สมการเกษตร"
+        "name": "ร้านจันทร์สมการเกษตร",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +109,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "ร้านดอยแก้วกิจเกษตร"
+        "name": "ร้านดอยแก้วกิจเกษตร",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
@@ -119,13 +126,48 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "บริษัท ข่านต้า จำกัด"
+        "name": "บริษัท ข่านต้า จำกัด",
+        "district": "เชียงใหม่"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           98.9993211,
           18.8065348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ร้านอึ๊งเป็งเฮงการเกษตร",
+        "district": "เชียงใหม่"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9937637,
+          18.8076347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ร้านอึ๊งเป็งเฮงการเกษตร",
+        "district": "เชียงใหม่"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7386571,
+          17.893378
         ]
       }
     }
