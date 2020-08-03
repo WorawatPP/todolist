@@ -170,6 +170,23 @@
           17.893378
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ห้างหุ้นส่วนจำกัด ชัยมงคลเคมีเกษตร",
+        "district": "ลำพูน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.779716,
+          18.355272
+        ]
+      }
     }
   ]
 }
