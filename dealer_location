@@ -204,6 +204,23 @@
           18.343952
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ห้างหุ้นส่วนจำกัด เมืองเจริญพาณิชย์",
+        "district": "ลำพูน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.933281,
+          18.476875
+        ]
+      }
     }
   ]
 }
