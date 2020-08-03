@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle-stroked",
         "name": "ร้านจีรวรรณการเกษตร"
       },
       "geometry": {
@@ -22,7 +22,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle-stroked",
         "name": "ร้านสันป่าตองเคมีเกษตร"
       },
       "geometry": {
@@ -38,7 +38,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle-stroked",
         "name": "บริษัท ลิ้มศักดากุลเคมีเกษตร จำกัด"
       },
       "geometry": {
@@ -54,7 +54,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle-stroked",
         "name": "ห้างหุ้นส่วนจำกัด ไทยเฮงจั่นเคมีเกษตร"
       },
       "geometry": {
@@ -70,7 +70,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle-stroked",
         "name": "บริษัท เคมีกิจเกษตร จำกัด"
       },
       "geometry": {
@@ -78,6 +78,54 @@
         "coordinates": [
           98.996332,
           18.794629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ร้านจันทร์สมการเกษตร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.709378,
+          18.449916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ร้านดอยแก้วกิจเกษตร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.67533,
+          18.45784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "บริษัท ข่านต้า จำกัด"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9993211,
+          18.8065348
         ]
       }
     }
