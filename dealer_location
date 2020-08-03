@@ -6,13 +6,46 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "ร้านจีรวรรณการเกษตร"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           98.821838,
           18.501027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ร้านสันป่าตองเคมีเกษตร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.89735,
+          18.63147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "บริษัท ลิ้มศักดากุลเคมีเกษตร จำกัด"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.063531,
+          18.801831
         ]
       }
     }
