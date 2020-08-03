@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "ร้านสันป่าตองเคมีเกษตร"
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "บริษัท ลิ้มศักดากุลเคมีเกษตร จำกัด"
@@ -46,6 +46,38 @@
         "coordinates": [
           99.063531,
           18.801831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ห้างหุ้นส่วนจำกัด ไทยเฮงจั่นเคมีเกษตร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.99996,
+          18.791682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "บริษัท เคมีกิจเกษตร จำกัด"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.996332,
+          18.794629
         ]
       }
     }
