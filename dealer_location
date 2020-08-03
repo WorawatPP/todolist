@@ -187,6 +187,23 @@
           18.355272
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "ร้านรัตนกิจ",
+        "district": "ลำพูน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.788011,
+          18.343952
+        ]
+      }
     }
   ]
 }
