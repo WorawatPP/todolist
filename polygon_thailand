@@ -11,7 +11,12 @@
         "fill-opacity": 0.5,
         "name": "Mae Hong Son",
         "tname": "แม่ฮ่องสอน",
-        "area": 1
+        "area": 1,
+        "vendor": 71,
+        "farmer58": "45,688",
+        "farmer59": "45,688",
+        "farmer60": "45,688",
+        "farmer61": "45,688"
       },
       "geometry": {
         "type": "Polygon",
@@ -18445,7 +18450,12 @@
         "fill-opacity": 0.5,
         "name": "Chiang Rai",
         "tname": "เชียงราย",
-        "area": 1
+        "area": 1,
+        "vendor": 373,
+        "farmer58": "140,387",
+        "farmer59": "152,754",
+        "farmer60": "161,526",
+        "farmer61": "167,903"
       },
       "geometry": {
         "type": "Polygon",
@@ -20349,7 +20359,12 @@
         "fill-opacity": 0.5,
         "name": "Chiang Mai",
         "tname": "เชียงใหม่",
-        "area": 1
+        "area": 1,
+        "vendor": 605,
+        "farmer58": "180,459",
+        "farmer59": "173,091",
+        "farmer60": "177,980",
+        "farmer61": "180,459"
       },
       "geometry": {
         "type": "Polygon",
@@ -24249,7 +24264,12 @@
         "fill-opacity": 0.5,
         "name": "Lampang",
         "tname": "ลำปาง",
-        "area": 1
+        "area": 1,
+        "vendor": 141,
+        "farmer58": "126,321",
+        "farmer59": "126,289",
+        "farmer60": "126,289",
+        "farmer61": "126,289"
       },
       "geometry": {
         "type": "Polygon",
@@ -27269,7 +27289,12 @@
         "fill-opacity": 0.5,
         "name": "Lamphun",
         "tname": "ลำพูน",
-        "area": 1
+        "area": 1,
+        "vendor": 256,
+        "farmer58": "64,209",
+        "farmer59": "64,209",
+        "farmer60": "64,209",
+        "farmer61": "64,209"
       },
       "geometry": {
         "type": "Polygon",
@@ -28805,7 +28830,12 @@
         "fill-opacity": 0.5,
         "name": "Nan",
         "tname": "น่าน",
-        "area": 1
+        "area": 1,
+        "vendor": 212,
+        "farmer58": "88,280",
+        "farmer59": "88,280",
+        "farmer60": "88,280",
+        "farmer61": "88,280"
       },
       "geometry": {
         "type": "Polygon",
@@ -30509,7 +30539,12 @@
         "fill-opacity": 0.5,
         "name": "Phayao",
         "tname": "พะเยา",
-        "area": 1
+        "area": 1,
+        "vendor": 206,
+        "farmer58": "80,997",
+        "farmer59": "80,997",
+        "farmer60": "80,997",
+        "farmer61": "80,997"
       },
       "geometry": {
         "type": "Polygon",
@@ -31949,7 +31984,12 @@
         "fill-opacity": 0.5,
         "name": "Phrae",
         "tname": "แพร่",
-        "area": 1
+        "area": 1,
+        "vendor": 154,
+        "farmer58": "73,292",
+        "farmer59": "73,292",
+        "farmer60": "73,292",
+        "farmer61": "73,292"
       },
       "geometry": {
         "type": "Polygon",
