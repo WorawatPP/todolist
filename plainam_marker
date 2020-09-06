@@ -25,22 +25,48 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "แม่น้ำน่าน"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.7611083984375,
-          18.098865720894775
+          100.7511083984375,
+          18.702
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "แม่น้ำปิง"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           98.751332,
+          18.434822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "แม่น้ำวัง"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.493587,
           18.434822
         ]
       }
