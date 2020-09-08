@@ -15,7 +15,8 @@
         "farmer58": "180,459",
         "farmer59": "173,091",
         "farmer60": "177,980",
-        "farmer61": "180,459"
+        "farmer61": "180,459",
+        "tname": "เชียงใหม่"
       },
       "geometry": {
         "type": "Polygon",
@@ -1971,7 +1972,8 @@
         "farmer58": "140,387",
         "farmer59": "152,754",
         "farmer60": "161,526",
-        "farmer61": "167,903"
+        "farmer61": "167,903",
+        "tname": "เชียงราย"
       },
       "geometry": {
         "type": "Polygon",
@@ -2843,7 +2845,8 @@
         "farmer58": "126,321",
         "farmer59": "126,289",
         "farmer60": "126,289",
-        "farmer61": "126,289"
+        "farmer61": "126,289",
+        "tname": "ลำปาง"
       },
       "geometry": {
         "type": "Polygon",
@@ -4035,7 +4038,8 @@
         "farmer58": "64,209",
         "farmer59": "64,209",
         "farmer60": "64,209",
-        "farmer61": "64,209"
+        "farmer61": "64,209",
+        "tname": "ลำพูน"
       },
       "geometry": {
         "type": "Polygon",
@@ -4815,7 +4819,8 @@
         "farmer58": "45,688",
         "farmer59": "45,688",
         "farmer60": "45,688",
-        "farmer61": "45,688"
+        "farmer61": "45,688",
+        "tname": "แม่ฮ่องสอน"
       },
       "geometry": {
         "type": "Polygon",
@@ -6123,7 +6128,8 @@
         "farmer59": "88,280",
         "farmer60": "88,280",
         "farmer61": "88,280",
-        "vendor": 389
+        "vendor": 389,
+        "tname": "น่าน"
       },
       "geometry": {
         "type": "Polygon",
@@ -7112,7 +7118,8 @@
         "farmer59": "80,997",
         "farmer60": "80,997",
         "farmer61": "80,997",
-        "vendor": 206
+        "vendor": 206,
+        "tname": "พะเยา"
       },
       "geometry": {
         "type": "Polygon",
@@ -7740,7 +7747,8 @@
         "farmer58": "73,292",
         "farmer59": "73,292",
         "farmer60": "73,292",
-        "farmer61": "73,292"
+        "farmer61": "73,292",
+        "tname": "แพร่"
       },
       "geometry": {
         "type": "Polygon",
