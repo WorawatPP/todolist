@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Mark_Komon"
+    },
+    {
+      "name": "uuuuri_i"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "uuuuri_i",
+      "timestamp_ms": 1610777983847,
+      "content": "5555",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark_Komon",
+      "timestamp_ms": 1610777954278,
+      "content": "\u00e0\u00b9\u0082\u00e0\u00b8\u0096\u00e0\u00b8\u00a7\u00e0\u00b9\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "uuuuri_i",
+      "timestamp_ms": 1610762067621,
+      "content": "\u00e0\u00b8\u0084\u00e0\u00b8\u00b4\u00e0\u00b8\u0094\u00e0\u00b8\u0099\u00e0\u00b8\u00ad\u00e0\u00b8\u0081\u00e0\u00b8\u0081\u00e0\u00b8\u00a3\u00e0\u00b8\u00ad\u00e0\u00b8\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "uuuuri_i",
+      "timestamp_ms": 1610762058790,
+      "content": "\u00e0\u00b8\u008a\u00e0\u00b9\u0088\u00e0\u00b8\u00b2\u00e0\u00b8\u00a2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark_Komon",
+      "timestamp_ms": 1610761972031,
+      "content": "\u00e0\u00b8\u0089\u00e0\u00b8\u00b5\u00e0\u00b8\u0081\u00e0\u00b9\u0080\u00e0\u00b8\u0089\u00e0\u00b8\u00a2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "uuuuri_i",
+      "timestamp_ms": 1610760162479,
+      "content": "\u00e0\u00b8\u0084\u00e0\u00b8\u00a7\u00e0\u00b8\u00b1\u00e0\u00b8\u0099",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mark_Komon",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mark_komon_wz5p9knlaq"
+}
